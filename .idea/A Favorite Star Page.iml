@@ -2,9 +2,9 @@
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/../A Tribute Page/.tmp" />
-      <excludeFolder url="file://$MODULE_DIR$/../A Tribute Page/temp" />
-      <excludeFolder url="file://$MODULE_DIR$/../A Tribute Page/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../A Favorites Star Page/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../A Favorites Star Page/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/../A Favorites Star Page/tmp" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

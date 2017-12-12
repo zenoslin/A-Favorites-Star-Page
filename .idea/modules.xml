@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../A Favorite Star Page/.idea/A Favorite Star Page.iml" filepath="$PROJECT_DIR$/../A Favorite Star Page/.idea/A Favorite Star Page.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/A Tribute Page.iml" filepath="$PROJECT_DIR$/.idea/A Tribute Page.iml" />
     </modules>
   </component>
